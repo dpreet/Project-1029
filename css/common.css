@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Open+Sans+Condensed:300|Oswald|Poiret+One|Quicksand:300,400|Tangerine|Rajdhani');
+
+img {
+	max-width: 100%;
+	height:auto;
+	/*background-color: blue;*/
+}
+
+body{
+
+	max-width:1600px;
+	margin: 0 auto;
+
+	/*background: url('../images/body_background.png');*/
+	background-position: cover;
+    background-repeat: repeat;
+}
+
+.landing-logo {
+	width:40%;
+}
+
+.landing-logo {
+	width:20%;
+	margin:0 auto;
+}
