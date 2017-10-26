@@ -47,7 +47,7 @@ header nav ul {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-around;
-	padding:1%;
+	padding:22px;
 	padding-left: 25%;
 	background-color: #1c1b1b;
 }
@@ -57,7 +57,7 @@ header nav ul li {
   /*border:1px solid white;*/
   /*width:25%;*/
   padding: 0;
-  margin: 2% 0 ;
+  margin: 5px 0 ;
   display: block;
   width:25%;
   transition:background-color 2s;
@@ -202,6 +202,8 @@ transition: color 1s;
 
 	border-bottom: 1px dashed #7b5e58;
     background-color: #fff;
+    min-height: 150px;
+   
 }
 
 .hide{
@@ -222,6 +224,8 @@ transition: color 1s;
 	padding:30px 0;
     background-color: #fff;
 	border-bottom: 1px dashed #803a2d;
+	min-height: 150px;
+	 
 }
 
 .date_left{
@@ -231,7 +235,8 @@ transition: color 1s;
 	background-color:#803a2d;
 	/*height:50px;*/
 	margin-top: 10px;
-	padding:1%;
+	padding:10px;
+
 }
 
 .date_left h2{
